@@ -2,10 +2,11 @@
 
 Streamlit app to visulize NFL players stats
  
-> Required Libraries
+## Required Libraries
 
 * streamlit
 * pandas
 * matplotlib
 * seaborn
 * numpy
+* lxml 
