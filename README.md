@@ -1,2 +1,4 @@
-# NFL Football Players Stats
+# NFL Players Stats
+
+Streamlit app to visulize NFL players stats
  
